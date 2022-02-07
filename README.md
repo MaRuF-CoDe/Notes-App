@@ -1,8 +1,8 @@
 ##  Notes-App 
-#  In this app anyone can add,remove,list and read notes only In the terminal.
-#  Technology: JavaScript , Node Js.
-#  This is a synchronus development.
-#  This app does not have any Web-server.
+  * By this app anyone can add,remove,list and read notes only In the terminal.
+  * This is a synchronus development.
+  * This app does not have any Web-server.
+##  Technology: JavaScript , Node Js.
 
 <ul>
   
